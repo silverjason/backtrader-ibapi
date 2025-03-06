@@ -27,7 +27,7 @@ from __future__ import (absolute_import, division, print_function,
 try:
     from .ibstore import IBStore
 except ImportError:
-    pass  # The user may not have ibpy installed
+    pass  # The user may not have ibapi installed
 
 try:
     from .vcstore import VCStore

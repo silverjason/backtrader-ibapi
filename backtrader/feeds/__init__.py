@@ -35,7 +35,7 @@ from .influxfeed import *
 try:
     from .ibdata import *
 except ImportError:
-    pass  # The user may not have ibpy installed
+    pass  # The user may not have ibapi installed
 
 try:
     from .vcdata import *

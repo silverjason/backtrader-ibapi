@@ -29,7 +29,7 @@ from .bbroker import BackBroker, BrokerBack
 try:
     from .ibbroker import IBBroker
 except ImportError:
-    pass  # The user may not have ibpy installed
+    pass  # The user may not have ibapi installed
 
 try:
     from .vcbroker import VCBroker

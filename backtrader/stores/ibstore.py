@@ -758,7 +758,7 @@ class IBStore(with_metaclass(MetaSingleton, object)):
             self.clientId = self.p.clientId
 
         self._debug = self.p._debug
-        # ibpy connection object
+        # ibapi connection object
         try:
             self.conn = IBApi(self, self._debug)
             self.conn.connect(self.p.host, self.p.port, self.clientId)
