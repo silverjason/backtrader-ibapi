@@ -1,6 +1,8 @@
 # Backtrader-IBAPI Fork
 
-This is a public fork of Backtrader, a Python backtesting and trading library, modified to integrate better with Interactive Brokers' IBAPI.
+This is a public fork of Backtrader, a Python backtesting and trading library, modified to integrate with Interactive Brokers' IBAPI.
+
+Backtrader currently uses IbPy package for live tading with IBAPI, however that package is no longer supported hence the need to rather use IBKR's official API package.
 
 ## License
 
