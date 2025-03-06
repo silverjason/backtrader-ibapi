@@ -673,10 +673,13 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-
-
 Inclusion of BSD-Licensed Code
 
-Certain portions of this project contain code originally developed by Atreyu Group LLC, licensed under the BSD 2-Clause License. While these portions remain under their original BSD terms, the overall repository follows the GPL-3.0 license, and any modifications or distributions of this repository must comply with GPL-3.0 requirements.
+Certain portions of this project contain code originally developed by 
+Atreyu Group LLC, licensed under the BSD 2-Clause License. 
+While these portions remain under their original BSD terms, 
+the overall repository follows the GPL-3.0 license, and any modifications
+or distributions of this repository must comply with GPL-3.0 requirements.
 
 For details, refer to the BSD 2-Clause License included in this repository.
+
