@@ -1,3 +1,27 @@
+# Backtrader-IBAPI Fork
+
+This is a public fork of Backtrader, a Python backtesting and trading library, modified to integrate better with Interactive Brokers' IBAPI.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, as inherited from the original [Backtrader project](https://www.backtrader.com/).
+
+### Inclusion of BSD-Licensed Code
+
+Some portions of this repository may include code originally developed by Atreyu Group LLC, which is licensed under the **BSD 2-Clause License**. This BSD-licensed code remains under its original terms, but since this project as a whole is licensed under **GPL-3.0**, all distributed versions of this fork must comply with GPL-3.0 requirements.
+
+For details on GPL-3.0, see the LICENSE file in this repository or visit GNU's website.
+
+## Attribution
+
+* **Backtrader**: Originally developed by Daniel Rodriguez and licensed under GPL-3.0.
+* **Atreyu Group LLC**: Some IBAPI-related improvements in this fork originate from BSD-licensed code.
+
+## Contribution
+
+By contributing to this repository, you agree that your contributions will also be licensed under GPL-3.0 to maintain compatibility with the Backtrader project.
+
+
 backtrader
 ==========
 
